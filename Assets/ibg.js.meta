@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1efcbb2d59514764191cec98b1802c8d
+timeCreated: 1520307139
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circle: {fileID: 1029509864418866, guid: f4e287f2dad3ac34090fe7eeb58fe486, type: 2}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
